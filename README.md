@@ -1,4 +1,4 @@
-# HyperLogLog in Zig
+# Wood
 
 A Zig implementation of [HyperLogLog](https://en.wikipedia.org/wiki/HyperLogLog), a probabilistic data structure for estimating the number of distinct elements in a multiset.
 
